@@ -1,4 +1,3 @@
-cat > ~/eks-nginx-project/README.md << 'EOF'
 # EKS Nginx Deployment
 
 ## Task Description
