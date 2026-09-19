@@ -25,17 +25,8 @@ Create an AWS EKS cluster, deploy the Nginx application, and access the applicat
 ## Application URL
 http://a8b513f0a3f3a49f398d555a3ddf4cc1-726640172.us-east-1.elb.amazonaws.com
 
-## Screenshots
-See the `/screenshots` folder for step-by-step evidence.
-
 ## Project Files
 - `eks-cluster-config.yaml` — EKS cluster + managed nodegroup definition
 - `nginx-deployment.yaml` — Nginx deployment manifest
 - `nginx-service.yaml` — LoadBalancer service manifest
 - `README.md` — this file
-- `screenshots/` — proof-of-work images
-<<<<<<< HEAD
-EOF
-cat ~/eks-nginx-project/README.md
-=======
->>>>>>> f22ba0a (Add YAML manifests)
