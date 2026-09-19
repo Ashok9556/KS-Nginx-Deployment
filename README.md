@@ -34,5 +34,8 @@ See the `/screenshots` folder for step-by-step evidence.
 - `nginx-service.yaml` — LoadBalancer service manifest
 - `README.md` — this file
 - `screenshots/` — proof-of-work images
+<<<<<<< HEAD
 EOF
 cat ~/eks-nginx-project/README.md
+=======
+>>>>>>> f22ba0a (Add YAML manifests)
